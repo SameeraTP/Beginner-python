@@ -19,10 +19,19 @@
 # name="my name is sam".title()
 # print(name)
 
-def format_name(f_name,l_name):
-    formated_fname=f_name.title()
-    formated_lname=l_name.title()
-    return f"{formated_fname} {formated_lname}"
-output=format_name("sam","sameera")
-print(output)
+# def format_name(f_name,l_name):
+#     formated_fname=f_name.title()
+#     formated_lname=l_name.title()
+#     return f"{formated_fname} {formated_lname}"
+# output=format_name("sam","sameera")
+# print(output)
+
+#Leap year code
+# def is_leap_year(year):
+#     if year%4==0:
+#         if year%100!=0 or year%400==0:
+#             return True
+#     return False
+# output=is_leap_year(2400)
+# print(output)
             
